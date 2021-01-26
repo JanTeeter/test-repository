@@ -1,4 +1,0 @@
-This is my first vim file , planning on pushing it soon.
-
-
-
